@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+    <h1> Please enter your details below </h1>
+    <form>
+        <label>Full Name*<br></label>
+        <input type="text" placeholder="First Name and last name" required><br><br>
+        Email Address*<br>
+        <input type="email" placeholder="xyz@gmail.com" required><br><br>
+
+        Select tour package*<br>
+        <select id="select" reguired><br>
+        <br><option Value="option">Goa</option>
+        <option Value="option">Hyderabad</option>
+        <option Value="option">Delhi</option><br>
+        </select><br><br>
+        Arrival date*<br>
+        <input type="date" placeholder="dd/mm/yyyy" required><br><br>
+        Number of person*<br>
+        <input type="number" placeholder="Unknown_type" required><br><br>
+        What would you want to avail?*<br>
+
+        Boarding <input type="checkbox"><br>
+        Fooding <input type="checkbox"><br>
+        Single Being <input type="checkbox"><br><br>
+        Discount Coupon Code*<br>
+        <input type="discount" placeholder="Unknown_type"><br><br>
+        Terms and Condition*<br>
+        <input type="radio" required> I Agree
+        <input type="radio" required> I Disagree<br>
+        <input type="submit" value="Complete Reservation">
+        
+
+
+        </label>
+        </form>
+    
+        </html>
