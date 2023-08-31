@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Book My Flight</title>
+    </head>
+</html>
+<h1>BOOK MY FIGHT</h1>
+
+<ol>
+    <li>Home</li>
+    <li>Booked</li>
+    <li>Favorite</li>
+    <li>About</li>
+    <li>Contact</li>
+</ol><hr>
+    <h2>You Can Easily Book Your Destinitional Flight Here</h2>
+    <p>Your Trust & Believe Is Our Priority</p>
+
+<img src="flight.jpg" width="50%" height="50%"><hr>
+
+<h2>Section-1</h2>
+    <li>This website is a very trusted website</li>
+    <li>We Provide Adequate Facilities For Our Customers</li>
+    <li>Very Good Environment,Behaviour Of Our Book My Flight Team</li>
+<hr>
+<h2>Section-2</h2>
+<ul style="width:50%">
+    <li style="width="40%">Real-Time Inventory: Flight booking websites connect directly with airlines' reservation systems to provide real-time information about seat availability, allowing users to see up-to-date flight options and make instant bookings.</li>
+
+    <li style="width="40%">Secure Payment Processing: These websites handle sensitive payment information, requiring robust security measures to ensure users' financial data is protected during transactions. Encryption and secure payment gateways are commonly employed to maintain data integrity.</li>
+        </li><li style="width="40%">Multilingual and Multi-Currency Support: To cater to a global audience, flight booking websites often provide multilingual interfaces and support for various currencies. This makes it easier for travelers from different countries to use the platform comfortably.</li>
+        <li style="width="40%">Frequent Flyer Integration: Some flight booking websites allow users to input their frequent flyer program details during booking. This integration ensures that travelers earn loyalty points or miles for the flights they book through the website, enhancing customer engagement and retention.</li>
+        <li style="width="40%">User Profiles and Preferences: Many flight booking websites allow users to create profiles where they can save their personal information and travel preferences. This enables quicker bookings and personalized recommendations based on past behavior.</li>    
+    </ul><hr>
+    <h2>Form Section</h2>
